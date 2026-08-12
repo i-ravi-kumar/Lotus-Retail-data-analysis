@@ -101,19 +101,20 @@ Based on the analysis, the following areas deserve further investigation:
 ---
 
 ## 📊 Dashboard Pages
-
+![Alt text](Lotus-Retail-data/ss1.png)
+![Alt text](Lotus-Retail-data/ss2.png)
+![Alt text](Lotus-Retail-data/ss3.png)
+![Alt text](Lotus-Retail-data/ss4.png)
 
 
 ## 📁 Repository Structure
 
 ```
-lotus-Retail-data-analysis/
+Lotus-Retail-data-analysis/
 │
 ├── README.md
-├── Power-bi
-└── screenshots
+└── Lotus-Retail-data
 ```
-
 ---
 
 ## 📚 Dataset
