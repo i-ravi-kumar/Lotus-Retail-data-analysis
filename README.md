@@ -1,4 +1,4 @@
-# Lotus Group Retail — Power BI Business Intelligence Project
+# Lotus Group Retail — Power BI Project
 
 ## 📊 Project Overview
 
